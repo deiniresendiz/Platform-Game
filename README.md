@@ -8,13 +8,13 @@
 ## Screenshots
 
 <p align="center">
-    <img src="https://github.com/netxbax/Platform-Game/blob/master/img/img3.png" width="40%">
+    <img src="https://github.com/netxbax/Platform-Game/blob/master/img/img3.png" width="60%">
 </p>
 
 <p align="center">
-    <img src="https://github.com/netxbax/Platform-Game/blob/master/img/img2.png" width="40%">
+    <img src="https://github.com/netxbax/Platform-Game/blob/master/img/img2.png" width="60%">
 </p>
 
 <p align="center">
-    <img src="https://github.com/netxbax/Platform-Game/blob/master/img/img1.png" width="40%">
+    <img src="https://github.com/netxbax/Platform-Game/blob/master/img/img1.png" width="60%">
 </p>
