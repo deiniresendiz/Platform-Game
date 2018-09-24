@@ -12,7 +12,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.platformer",
-    "projectFile": "/home/netxbax/GDevelop projects/My project/platformer.json",
+    "projectFile": "/home/netxbax/GDevelop projects/Platform Game/proyect/platformer.json",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
@@ -1847,7 +1847,7 @@
           "width": 76,
           "x": 3305,
           "y": 181,
-          "zOrder": 24,
+          "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1952,7 +1952,7 @@
           "width": 0,
           "x": 3646.53,
           "y": -16.392,
-          "zOrder": 31,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1967,7 +1967,7 @@
           "width": 0,
           "x": 2845.55,
           "y": 25.0705,
-          "zOrder": 32,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1997,7 +1997,7 @@
           "width": 0,
           "x": 2618,
           "y": 108,
-          "zOrder": 34,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2207,7 +2207,7 @@
           "width": 0,
           "x": 4585.09,
           "y": 115.534,
-          "zOrder": 50,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2222,7 +2222,7 @@
           "width": 0,
           "x": 4986.52,
           "y": 111.765,
-          "zOrder": 51,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3087,7 +3087,7 @@
           "width": 0,
           "x": 7732.83,
           "y": 117.122,
-          "zOrder": 106,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3102,7 +3102,7 @@
           "width": 0,
           "x": 7384.07,
           "y": 96.4609,
-          "zOrder": 107,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3157,7 +3157,7 @@
           "width": 501,
           "x": 9100,
           "y": 397,
-          "zOrder": 110,
+          "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3752,7 +3752,7 @@
           "width": 0,
           "x": 5663.72,
           "y": 195.162,
-          "zOrder": 147,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3767,7 +3767,7 @@
           "width": 0,
           "x": 6824.58,
           "y": 221.249,
-          "zOrder": 148,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3782,7 +3782,7 @@
           "width": 0,
           "x": 8246.32,
           "y": 147.336,
-          "zOrder": 149,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3797,7 +3797,7 @@
           "width": 0,
           "x": 8998.5,
           "y": 216.901,
-          "zOrder": 150,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3812,7 +3812,7 @@
           "width": 0,
           "x": 9581.11,
           "y": 164.727,
-          "zOrder": 151,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3827,7 +3827,7 @@
           "width": 0,
           "x": 6264,
           "y": 4,
-          "zOrder": 152,
+          "zOrder": -2,
           "numberProperties": [
             {
               "name": "animation",
@@ -3848,6 +3848,21 @@
           "x": 8689,
           "y": 577,
           "zOrder": 153,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Cloud",
+          "width": 0,
+          "x": 9581.11,
+          "y": 164.727,
+          "zOrder": 151,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
